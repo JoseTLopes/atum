@@ -1,0 +1,6 @@
+{
+  "name": "Squiggle 3D Landing Page",
+  "description": "A high-converting dark-mode premium landing page showcasing vibrant Squiggle 3D assets with interactive previews, feature highlights, and pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
